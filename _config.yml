@@ -1,0 +1,27 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.6675562039017677
+  lightness: 0.014731701230630279
+  saturation: 0.6705771177075803
+  rhythmicContrast: 0.2503286926075816
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: melon
+layout_spectrum: 0.08514064946211874
+typography_spectrum: 0.8775258690584451
+content: []
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4012145a-42f8-4cc7-9b4b-97aac3e0afee.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/10daf770-76d5-4123-9006-cdedeccafb56.jpg
